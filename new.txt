@@ -1,0 +1,4 @@
+Full_name: Kruglik_Vitaliy_Iv,
+Age: 32,
+Pets: I don't have anyy pets,
+Future_salary: 1500$
