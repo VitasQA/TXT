@@ -1,1 +1,14 @@
-
+Summary: The login page crashes when attempting to enter a username with a special character.
+Description: WS doesn't provide information if response contains more than 9 characters.
+Actual Result: information gets.
+Expected Result: information doesn't get.
+Requirement Id: requirement.
+Reproduced on: Win 11.
+Reproducibility: always.
+Workaround: no.
+Steps to reproduce: 1. Navigate to the login page
+                    2. Enter a username with a special character (e.g. !@#$%)
+                    3. Click on the 'Login' button
+                    4. Observe the page crashing
+Severity: Minor
+Priority: Low
