@@ -1,0 +1,8 @@
+Skills:
+  Mobile testing,
+  Postman,
+  Software testing theory,
+  Client-server arhitecture,
+  API testing,
+  Android Studio
+  Python. Learning the basics
